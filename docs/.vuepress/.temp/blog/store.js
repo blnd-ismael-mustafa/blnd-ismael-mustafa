@@ -1,0 +1,1 @@
+export const store = JSON.parse("[\"/projects/project-4.html\",\"/projects/project-3.html\",\"/projects/project-2.html\",\"/projects/project-1.html\",\"/skills/scikit.html\",\"/skills/pandas.html\",\"/skills/numpy.html\",\"/skills/figma.html\",\"/certifications/ux-ztm.html\",\"/certifications/ML.html\",\"/certifications/leadership.html\",\"/certifications/google.html\"]");

@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as l}from"./app-BWMt5_hv.js";const a={};function s(i,n){return l(),t("div")}const r=e(a,[["render",s]]),c=JSON.parse('{"path":"/skill/","title":"Skills","lang":"en-US","frontmatter":{"title":"Skills","sidebar":false,"blog":{"type":"type","key":"skill"},"layout":"Skill"},"headers":[],"git":{},"filePathRelative":null}');export{r as comp,c as data};
