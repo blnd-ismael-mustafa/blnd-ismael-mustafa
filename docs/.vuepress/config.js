@@ -7,6 +7,7 @@ export default defineUserConfig({
   lang: 'en-US',
   title: 'Blnd Ismael',
   description: 'Portfolio',
+  base:'/blnd-ismael-mustafa/',
 
   theme: defaultTheme({
     logo: '/images/home/logo.png',
