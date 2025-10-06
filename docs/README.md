@@ -29,6 +29,7 @@ navbar: true
   </div>
 </div>
 
+
 <ProjectList />
 <CertificationList />
 <SkillList />
