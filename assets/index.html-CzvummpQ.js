@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./app-CWmUi38f.js";const r={};function c(a,n){return o(),t("div")}const l=e(r,[["render",c]]),i=JSON.parse('{"path":"/project/","title":"Projects","lang":"en-US","frontmatter":{"title":"Projects","sidebar":false,"blog":{"type":"type","key":"project"},"layout":"Project"},"headers":[],"git":{},"filePathRelative":null}');export{l as comp,i as data};
